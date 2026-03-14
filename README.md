@@ -39,8 +39,6 @@
 
 ### 🏆 Google Skills Badge
 
-## 🏆 Google Skills Badges
-
 [![Holi-istic Infrastructures](assets/Holi-istic Infrastructures m7NpHJriXFqSWW9Gjd_cVloP8TaR9KansT35NNCzi6I=.png)](https://www.skills.google/public_profiles/a82c4440-d133-4a01-b756-3a0a00b83616/badges/22905580)  
 
 [![Work Meets Play: Metrics in Motion](assets/Work Meets Play: Metrics in Motion YL_XwmtZYUdONk0F2TOKnEjSPFyHaQASjhNNFM5AZaQ=.png)](https://www.skills.google/public_profiles/a82c4440-d133-4a01-b756-3a0a00b83616/badges/22849868)
