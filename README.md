@@ -77,12 +77,8 @@ currently_learning:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeYoddha&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeYoddha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeYoddha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="165" />
-
-</div>
 
 ---
 
@@ -96,13 +92,6 @@ currently_learning:
 
 ---
 
-## 🏆 Achievements & Badges
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CodeYoddha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
-
-</div>
 
 ### 🎖️ Google Skills Badges
 
@@ -110,8 +99,8 @@ currently_learning:
 
 | Badge | Name |
 |---|---|
-| 🌈 | Holi-istic Infrastructures |
-| 🎮 | Work Meets Play: Metrics in Motion |
+|  | Holi-istic Infrastructures |
+|  | Work Meets Play: Metrics in Motion |
 
 </div>
 
