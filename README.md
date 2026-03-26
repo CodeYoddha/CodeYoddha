@@ -99,8 +99,7 @@ https://github-readme-stats.vercel.app/api?username=CodeYoddha&show_icons=true&t
 
 | Badge | Name |
 |---|---|
-| https://www.skills.google/public_profiles/a82c4440-d133-4a01-b756-3a0a00b83616/badges/22905580
- | Holi-istic Infrastructures |
+| https://www.skills.google/public_profiles/a82c4440-d133-4a01-b756-3a0a00b83616/badges/22905580| Holi-istic Infrastructures |
 | https://www.skills.google/public_profiles/a82c4440-d133-4a01-b756-3a0a00b83616/badges/22849868 | Work Meets Play: Metrics in Motion |
 
 </div>
