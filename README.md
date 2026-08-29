@@ -22,31 +22,25 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class Milan {
-    String alias = "CodeYoddha";
-    String role  = "Student Developer";
-    String[] focus = {"Java", "Data Structures & Algorithms", "Problem Solving"};
-    String goal  = "Google Summer of Code";
+<div align="center">
 
-    public static void main(String[] args) {
-        while (learning) {
-            grind(DSA);
-            code(Java);
-        }
-    }
-}
-```
+### Hi, I'm Milan
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&height=35&lines=while(learning)+%7B+grind(DSA)%3B+code(Java)%3B+%7D" alt="Grind Typing SVG" />
+
+</div>
+
+<div align="center">
+
+| ☕ Java | 🧩 DSA | 🎯 LeetCode |
+|:---:|:---:|:---:|
+| OOP, Collections, Streams | Trees, Graphs, DP, Recursion | Daily problem practice |
+
+</div>
 
 ---
 
 ## 🧠 What I'm Grinding
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00D9FF&center=true&vCenter=true&width=500&height=35&lines=while(learning)+%7B+grind(DSA)%3B+code(Java)%3B+%7D" alt="Grind Typing SVG" />
-
-</div>
 
 | Topic | Progress |
 |---|---|
@@ -69,18 +63,6 @@ public class Milan {
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📌 Focus Areas
-
-<div align="center">
-
-| ☕ Java | 🧩 DSA | 🎯 LeetCode |
-|:---:|:---:|:---:|
-| OOP, Collections, Streams | Trees, Graphs, DP, Recursion | Daily problem practice |
 
 </div>
 
